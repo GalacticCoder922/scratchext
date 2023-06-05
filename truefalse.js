@@ -1,4 +1,4 @@
-class NitroBlock {
+class TrueFalse {
     getInfo() {
         return {
             "id": "NitroBlock",
@@ -17,3 +17,4 @@ class NitroBlock {
         return true;
     };
 }
+Scratch.extensions.register(new TrueFalse());
