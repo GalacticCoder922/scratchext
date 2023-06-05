@@ -10,7 +10,7 @@ class TrueFalse {
                     }
                 },
             }],
-        "menus": { //we will get back to this in a later tutorial
+        "menus": {
         }
     };
     substringy {
