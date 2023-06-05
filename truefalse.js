@@ -1,8 +1,8 @@
 class TrueFalse {
     getInfo() {
         return {
-            "id": "NitroBlock",
-            "name": "NitroBlock",
+            "id": "TrueFalse",
+            "name": "TrueFalse",
             "blocks": [{
                     "opcode": "substringy",
                     "blockType": "boolean",
